@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Yash Aggarwal
-- 👀 I’m interested in Deep Learning, NLP and everyting AI!
 - 🌱 I’m currently a student at IIIT Delhi (CSAI branch)
 - 💞️ I’m looking to collaborate on a cool project with a real world application
 - 📫 How to reach me ... mail me at yash19480@iiitd.ac.in
